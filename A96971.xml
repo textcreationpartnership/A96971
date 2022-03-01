@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wrens anatomy. Discovering his notorious pranks, and shamefull wickednesse; with some of his most lewd facts, and infamous deeds; both in his government of Peter-house Colledge, and domineering in three bishopricks, to his perpetuall shame and infamy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96971</idno>
+            <idno type="STC">Wing W3680</idno>
+            <idno type="STC">Thomason E166_7</idno>
+            <idno type="STC">ESTC R23423</idno>
+            <idno type="EEBO-CITATION">99871990</idno>
+            <idno type="PROQUEST">99871990</idno>
+            <idno type="VID">156984</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156984)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E166[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wrens anatomy. Discovering his notorious pranks, and shamefull wickednesse; with some of his most lewd facts, and infamous deeds; both in his government of Peter-house Colledge, and domineering in three bishopricks, to his perpetuall shame and infamy.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, That Wren ceasd to domineere, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wren, Matthew, 1585-1667.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156984:1"/>
+            <pb facs="tcp:156984:1" rendition="simple:additions"/>
+            <p>WRENS ANATOMY. DISCOVERING His notorious pranks, and ſhame<g ref="char:EOLhyphen"/>full wickedneſſe; with ſome of his moſt lewd facts, and infamous deeds; both in his government of <hi>Peter-houſe</hi> Colledge, and domineering in three Biſhop<g ref="char:EOLhyphen"/>ricks, to his perpetuall ſhame and infamy.</p>
+            <figure>
+               <figDesc>Matthew Wren speaks over a desk with writing implements, petitioned by priests and church wardens</figDesc>
+               <sp>
+                  <p>
+                     <hi>only canonicall prayers</hi>
+                  </p>
+                  <p>
+                     <hi>no afternoon ſermons</hi>
+                  </p>
+               </sp>
+               <p>Altar-cringing Priſtes</p>
+               <p>Church-wardens, for Articles.</p>
+            </figure>
+            <q>
+               <p>Woe be unto the Paſtors that deſtroy and ſcatter the ſheepe of my paſture, ſaith the Lord.</p>
+               <bibl>
+                  <hi>Jerem. 23.1.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the yeare, That <hi>Wren</hi> ceaſd to domineere, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156984:2"/>
+            <pb n="1" facs="tcp:156984:2"/>
+            <head>WRENS ANATOMY.</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECT. 1.</hi> His birth, parentage, and education.</head>
+               <p>THe world ſince its firſt creation, being by the fall of man, ſomething degenerated from the firſt perfection and purity of na<g ref="char:EOLhyphen"/>ture, wherein the moſt bleſſed Almighty was pleaſed to vouchſafe it, the nature and qualitie of exceeding good, and by the fall of man, ſin entring into the world, and by ſin death and corrup<g ref="char:EOLhyphen"/>tion of nature, ruling and conquering all living creatures, ſo that by ſin, death, corruption, and depravation of na<g ref="char:EOLhyphen"/>ture, and naturall things; the world hereby not being what it was at firſt, at ſundry times, and ſeverall ages, and in divers places, from various cauſes, or rather imperfecti<g ref="char:EOLhyphen"/>ons and blemiſhes of nature; it hath been obſerved to pro<g ref="char:EOLhyphen"/>duce monſters of ſeverall kinds, ſome of one faſhion, and ſome of another, ſome whoſe cauſes were knowne and underſtood by the learned &amp; judicious, and ſome where<g ref="char:EOLhyphen"/>of the reaſon was inſcrutable; but of all Monſters, thoſe Monſters in ſoule, ſeeme more marvellous than thoſe which are either deficient, or redundant in body.</p>
+               <p>The ſubject that now we are to treat of, hath not been eſteemed a Monſter in body, nor a wonder to behold in perſon, but whether a monſter in ſoule (if he thinke to
+<pb n="2" facs="tcp:156984:3"/>have any) or a wonder to behold his profeſſion and pra<g ref="char:EOLhyphen"/>ctiſes, I leave to other mens judgements; who (not ſo much as feeling the leaſt part of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s tyranny) ſhall but one<g ref="char:EOLhyphen"/>ly heare, that one procreated of<note n="*" place="margin">He was born in <hi>Cheap-ſide,</hi> his father (be<g ref="char:EOLhyphen"/>ing an Haber<g ref="char:EOLhyphen"/>daſher of ſmall wares) kept the corner ſtall, next unto <hi>Cheap-Croſſe,</hi> &amp; was brought up in the Uni<g ref="char:EOLhyphen"/>verſity of <hi>Cam<g ref="char:EOLhyphen"/>bridge.</hi>
+                  </note> ordinary parentage, ſome well diſpoſed kindred, in ſo eminent a Citie (as be<g ref="char:EOLhyphen"/>ing the chiefe in the Kingdome) and brought up in ſo fa<g ref="char:EOLhyphen"/>mous an Univerſitie, ſhould commit ſo many monſtrous outrages, and ſuch prodigious wickedneſſe.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>2.</hi> His firſt preferments in the <g ref="char:V">Ʋ</g>niverſitie.</head>
+               <p>DUring his time at <hi>Cambridge,</hi> he firſt attained unto a fellowſhip of a Colledge, which was the beginning of his riſing, and ſo ſpent ſome yeares in that place; where whileſt he was fellow, there fell out an accident, which I cannot paſſe by, but as it was reported to<note n="*" place="margin">By a credible perſon yet li<g ref="char:EOLhyphen"/>ving.</note> me, I ſhal relate; this M<hi rend="sup">r</hi>. <hi>Wren</hi> greatly frequented one M<hi rend="sup">r</hi>. <hi>Pariſhes</hi> houſe, and this M<hi rend="sup">r</hi>. <hi>Pariſh</hi> had a very handſome and proper wo<g ref="char:EOLhyphen"/>man to his wife; in whoſe life time, M<hi rend="sup">r</hi>. <hi>Wren</hi> lived a bat<g ref="char:EOLhyphen"/>chellour, and ſince her death hath married a wife of his owne, and they ſay, he hath preferred or provided for M<hi rend="sup">rs</hi>. <hi>Pariſhes</hi> children: but to the matter; this being known and well noted in the Towne, that the little bird fluttered ſo often about M<hi rend="sup">r</hi>. <hi>Pariſhes</hi> houſe, it happened that D<hi rend="sup">r</hi>. <hi>Batchcroft</hi> was in election to be Maſter of <hi>Keys</hi> Colledge, which M<hi rend="sup">r</hi>. <hi>Wren</hi> hearing of, ſaid, What? He? Why he is not a fit man to governe a Colledge; which words came to D<hi rend="sup">r</hi>. <hi>Batchcrofts</hi> eare, who afterwards upon ſome occaſion ſpeaking to M<hi rend="sup">r</hi>. <hi>Wren,</hi> ſaid; I thanke you M<hi rend="sup">r</hi>. <hi>Wren,</hi> it ſeemes I had your good word, yet methinkes, I might be as fit a man to governe a Colledge, as you to governe a Pariſh; which word ſtrooke M<hi rend="sup">r</hi>. <hi>Wren</hi> with ſi<g ref="char:EOLhyphen"/>lence.</p>
+               <p>After this, M<hi rend="sup">r</hi>. <hi>Wren</hi> attained to the degree of Doctor, and obtained to be Maſter of <hi>Peterhouſse,</hi> and was prefer<g ref="char:EOLhyphen"/>red to be Clerke of the Kings Cloſet; where he got the length of <hi>Canterburies</hi> foot ſo exactly, that the freſhmen of <hi>Cambridge</hi> ſmelt his Biſhopricke at leaſt two or three
+<pb n="3" facs="tcp:156984:3"/>yeares before it fell, knowing him to be a notable craftie inſinuating fellow, as they would often ſay among them<g ref="char:EOLhyphen"/>ſelves.</p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>3.</hi> His bringing Latine Service into the Colledge.</head>
+               <p>THis wicked <hi>Wren,</hi> being Maſter of <hi>Peter-houſe</hi> Col<g ref="char:EOLhyphen"/>ledge, and Clerke of the Kings Cloſet, beſides other preferments, being intimately familiar with <hi>Canterbury,</hi> and being a quick-ſighted bird, and of an active ſpirit, perceived the times drive ſo hard after Popery, he ſmelt the way to a Biſhoprick, and ſtudied nothing more than to pleaſe the Papiſts, and <hi>Canterbury;</hi> and among other deviſes, he was noted to be either the firſt or one of them who brought in uſe againe, Latine ſervice in his Col<g ref="char:EOLhyphen"/>ledge; thinking that young Students being trained up therein, and uſed thereto, would be an introduction to Latin ſervice in Churches; which when he ſhould come to be Archbiſhop, might be effected: and in the meane time, thought it would be excuſable if any queſtion ſhould ariſe, becauſe the Rubrick of the Service book, doth allow private prayers in any tongue that they them<g ref="char:EOLhyphen"/>ſelves doe underſtand, (perhaps intending forrainers and ſtrangers Churches here in <hi>England</hi>) which words he ſpied, and wreſted to his own advantage, and ſo brought up Latine Service in <hi>Peter-houſe;</hi> and by his example, ſome other Colledges did the like.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>4.</hi> His introducing Altars, and bowing thereto.</head>
+               <p>ANother of his feats, and that no ſmall one to pleaſe <hi>Canterbury,</hi> was the bringing in of an Altar, which was the direct way to the bringing in of Maſſe; for in vain ſhould the Prelatiſts &amp; Papiſts, labour to bring in the Maſſe, if there ſhould not firſt way be made for to bring in an Altar, which after that they had but gotten that, and Latine ſervice, and that both theſe were well ſetled, and all quiet, the work were more than almoſt done; for
+<pb n="4" facs="tcp:156984:4"/>how eaſie were it for the Prieſt, having an Altar, and La<g ref="char:EOLhyphen"/>tine ſervice, to ſay Maſſe, there being ſo little difference, and the Countrey people ſo unable to diſtinguiſh them, or to diſcerne the diverſitie between Latine ſervice, and Latine Maſſe, and how eaſie were it for the Prelatiſts to diſpute and cavill upon tranſubſtantiation; eſpecially when Controverſies muſt be decided by Biſhops an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Archbiſhops, and they to have power of undoing other Miniſters, that ſhould oppoſe them<g ref="char:punc">▪</g> all which this wic<g ref="char:EOLhyphen"/>ked <hi>Wren</hi> well knowing, he firſt practiſeth to bring in an Altar, and to doe it ſmoothly, he firſt for many cauſes him moving, makes an Altar of a Table, and tumes it Altar-wiſe, that ſo it may have an Altars place, and after that it onely wants the name, and for that purpoſe he will not all on a ſudden baptize it anew; but firſt promiſ<g ref="char:EOLhyphen"/>cuouſly confounds the names of Table, and Altar; calling it ſometimes one, ſometimes another; and an Altar in one ſenſe, and a Table in another, that ſo at laſt he might call it an Altar altogether; and then being an Altar in<g ref="char:EOLhyphen"/>deed, and having both name and place, the materialls (if need be) might eaſily be changed from wood to ſtone, and ſo having Latine ſervice, or Maſſes, a Prieſt, an obla<g ref="char:EOLhyphen"/>tion, (as one of his Chaplains called it) and an Altar, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wanted nothing that could give the Pope and <hi>Canterbury</hi> content, but onely worſhipping the Hoſt, or Sacrament, which himſelfe practiſed and performed in his own per<g ref="char:EOLhyphen"/>ſon, as hath been proved before a Committee, and bow<g ref="char:EOLhyphen"/>ing to the Altar, which he, and all his, and many others did; ſo that hereby, he had almoſt done all that could be deſired by the Jeſuites, or requiſite for a reconciliation to Rome.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>5.</hi> His being made Biſhop of Herefore.</head>
+               <p>THeſe things being ſo bravely performed, and hand<g ref="char:EOLhyphen"/>led with ſuch dexterity, and admirable skill, gave <hi>Canterburyes</hi> little grace ſuch Archcontent, to ſee his lit<g ref="char:EOLhyphen"/>tle bird ſo active, nimble, ſtirring, and ſo reall, he thought
+<pb n="5" facs="tcp:156984:4"/>to requite him well, both for his reward, and encourage<g ref="char:EOLhyphen"/>ment, and to animate others to follow his ſteps, and like<g ref="char:EOLhyphen"/>wiſe to enable him to doe more, and greater ſervice; he plods with might and maine, to advance this wicked <hi>Wren;</hi> and the Biſhoprick of <hi>Hereford</hi> falling then voyd, he with all haſt and ſpeed, procures him to be made Bi<g ref="char:EOLhyphen"/>ſhop, and ſo he is immediately, and now the little bird having done his Arch-grace ſo great, and ſuch illaudable ſervice, he is gotten into his <hi>Pontificalibus,</hi> and ſo having him for his faſt friend, and ready to promote him high<g ref="char:EOLhyphen"/>er, he ſtudies nothing more, than to requite his Grace, and to manifeſt his further deſerts.</p>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>6.</hi> His procuring Coſens to ſucceed him in the Colledge.</head>
+               <p>ANd to ſhew himſelfe mindfull of his worke, and watchfull care, looking as well behind him as be<g ref="char:EOLhyphen"/>fore, he remembers what ſervice he hath done in his Ma<g ref="char:EOLhyphen"/>ſterſhip of the Colledge, and conſiders how conducible to the purpoſe it will be, to leave his like in his place, and after much debating with himſelfe, he can fearce finde in all <hi>England,</hi> an ill lookt Machiavell bad enough to ſuc<g ref="char:EOLhyphen"/>ceed him, but Popiſh <hi>Coſens;</hi> him he pitcheth upon, he having lately playd his notorious pranks, in ſilencing Mi<g ref="char:EOLhyphen"/>niſters (being viſiter of <hi>Yorke</hi>) and having long beene knowne to hold Popiſh opinions, to have written Popiſh Bookes, and to have playd many notable Popiſh parts, and perſecuted Maſter <hi>Smart,</hi> and many others; for re<g ref="char:EOLhyphen"/>ward of his deeds, and furtherance of other ſervices, he ſhall be the man to ſucceed him; he onely of all men in <hi>England</hi> ſhall be Maſter of <hi>Peter-houſe,</hi> and indeed (to ſay truth) of all the wretches in <hi>England,</hi> he is moſt like unto wicked <hi>Wren,</hi> and curſed <hi>Canterbury,</hi> and therefore let him take it; and ſo farewell Fryer.</p>
+            </div>
+            <div n="7" type="section">
+               <pb n="6" facs="tcp:156984:5"/>
+               <head>
+                  <hi>7.</hi> His notorious Articles, called <hi>Wrens</hi> Articles.</head>
+               <p>AND now this wicked <hi>Wren</hi> being in his <hi>Pontificali<g ref="char:EOLhyphen"/>bus,</hi> and having attained to the firſt ſtep towards the long deſired honour and ſplendour, to which his ambiti<g ref="char:EOLhyphen"/>ous minde aſpired, hoping at laſt to arrive at the very <hi>Faſtigium</hi> of Arch-Prelacy, (if <hi>Gregory</hi> come not between) his next buſineſſe is to hold his Viſitation; which that he may doe it laudably, to curſt <hi>Canterburyes</hi> content, he plods and ponders ſuch miſchievous and moſt abhomi<g ref="char:EOLhyphen"/>nable Articles, that he, and the devill to helpe him, could deviſe; and theſe he intends to foyſt upon the poore Churchwardens, whom he knowes to be ſuch hand<g ref="char:EOLhyphen"/>tamed ſlaves, to the Prelates his predeceſſours, that the ſtouteſt of them all, durſt not diſobey his Prelate-ſhips pleaſure, but <hi>nolens volens,</hi> muſt obey, though to the ha<g ref="char:EOLhyphen"/>zard of their ſoules, or elſe if any ſhould but ſo much as dare to refuſe, he ſhould be beggard and undone, by this cruell proud wretch, and therefore he very well knowing their neceſſitated ſubmiſſion, lays on load, both for them and the Miniſters; verifying the old ſaying, <hi>Set a beggar on horſebacke, and beele ride boyond meaſure;</hi> ſo this wicked <hi>Wren,</hi> drawes ſuch Articles, as the wiſeſt and learnedſt Church-wardens in <hi>England,</hi> could not poſſibly know how to anſwer in their preſentments; and thus he begins his projects.</p>
+            </div>
+            <div n="8" type="section">
+               <head>
+                  <hi>8.</hi> His harrowing the Dioceſſe of Hereford.</head>
+               <p>THeſe Articles though they were moſt odiouſly baſe, and more than halfe devilliſh, yet that poore igno<g ref="char:EOLhyphen"/>rant Countrey durſt by no meanes refuſe them, though they ſhould all have ſworne to betray their own Fathers, ſuch was the rage and inſolency of this cruell proud ty<g ref="char:EOLhyphen"/>rant; and thus having received theſe Articles, and taken the oath, they all became <hi>Wrens</hi> ſworne vaſſalls, and bound in conſcience upon their oathes to preſent unto
+<pb n="7" facs="tcp:156984:5"/>him any man that ſhould diſcourſe prophanely (as he eſteemed it) at meale-time, touching Religion, or the holy Scripture, thereby to make men afraid ever ſo much as to mention Gods Word, or any goodneſſe, and injoyning an impoſſibilitie of avoyding manifeſt perjury in the Church-wardens, who could not poſſibly if they had beene ſo many Spirits, have beene preſent, waiting at ſo many ſeverall mens Tables at once; and likewiſe they were bound by oath, to certifie by their preſent<g ref="char:EOLhyphen"/>ment, whether the Miniſters expounded the holy Scrip<g ref="char:EOLhyphen"/>tures according to the ſenſe of the a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncient Fathers? which was a taske requiring Church-wardens better learned than ever Biſhop <hi>Wren</hi> was, and rather requiring the Doctors of the Chaire to be Church-wardens, and come to Biſhop <hi>Wrens</hi> Viſitations. And thus it pleaſed the great wiſdome of God to beſot this doltiſh Aſſe, as not to ſee his owne blind fooliſhneſſe in theſe and many ſuch like abnominable abſurdities put upon the poore Church-wardens. Which Articles with his other lewd and tyrannous demeanour, made ſuch havock in the Church, vexed and moleſted the Church Officers, grie<g ref="char:EOLhyphen"/>ved the people, excommunicated, preſented, moleſted, ſo many innocent people, ſuſpended, deprived, baniſhed, begger'd, ſo many honeſt, able, religious, painfull Mini<g ref="char:EOLhyphen"/>ſters, that this miſcreant wretch, the devills Plow-Chu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, did even harrow up the whole Countrey, ſo that he brought it into a moſt miſerable caſe, as ever did any Antichriſtian Prelate.</p>
+            </div>
+            <div n="9" type="section">
+               <head>
+                  <hi>9.</hi> His tranſlation to Norwich.</head>
+               <p>THis wicked <hi>Wren</hi> having thus miſchievouſly behaved himſelfe in <hi>Hereford,</hi> and having made ſuch hurly burly, and ſuch ſtirres, that all the whole Countrey was in griefe, vexation, and unquietneſſe, and having ſwept out, by one villanous trick or other, by one tyrannicall practiſe or other, all the moſt painfull, honeſt, and leſt Miniſters; and in their places, brought in idle drones,
+<pb n="8" facs="tcp:156984:6"/>dumb curres, idoſt Shepheards, and Altar-cringing Aſſes, and thereby having rendred the Countrey very flexible and tractable to Arminianiſme, Papiſme, Prelatiſme, or Atheiſme, partly by feare of his tyranny and cruell pra<g ref="char:EOLhyphen"/>ctiſes, and partly by taking away their good and faithfull Shepheards, who ſtood in the gap, and would be ready to ſpeake for the truth, ſo that the Countrey might ſeeme very reducible to Popery for any ſucceedant, and being become very diſquiet and dangerous for himſelfe ſo odi<g ref="char:EOLhyphen"/>ouſly hated, to reſide in it any longer, under whoſe heavy burden and preſſure the Countrey groaned, in ſo ſhort a time; it was now become high time for that little devill curſt <hi>Canterbury,</hi> to beſtirre himſelfe for his Journeyman <hi>Wrens</hi> ſake, and to prevent a forcible detruſion or ſome ſuch dangerous attempt, he thought it beſt by a timely tranſlation to take him away, both to reward his dili<g ref="char:EOLhyphen"/>gent ſervice, by promoting him to a better place, and to rid him of the cumberſome enterpriſes he had entred too far into, (having done all that could be done or deſi<g ref="char:EOLhyphen"/>red in that place,) and alſo to make way for his further ſervice, to doe as much in another Dioceſſe; he procured with all haſte, care, and diligence, his tranſlation to the Dioceſſe of <hi>Norwich;</hi> too good a neſt for ſuch a ſhame<g ref="char:EOLhyphen"/>full uncleane bird.</p>
+            </div>
+            <div n="10" type="section">
+               <head>
+                  <hi>10.</hi> His ſilencing and depriving fiftie or ſixtie Miniſters.</head>
+               <p>AND no ſooner was this <hi>Matthew</hi> miſchiefe, or wic<g ref="char:EOLhyphen"/>ked <hi>Wren</hi> ſettled in the Prelaticall dignity of <hi>Norwich,</hi> and being very mindfull and ſtudious of his Arch-ma<g ref="char:EOLhyphen"/>ſters will and pleaſure, and knowing ſingularly well, that nothing could be ſo pleaſing and acceptable to curſed <hi>Canterbury,</hi> as to doe miſchiefe enough, to perſecute all good religious people, to oppoſe all profeſſion of Reli<g ref="char:EOLhyphen"/>gion, to hinder all good Preaching, to root out all pra<g ref="char:EOLhyphen"/>ctiſe of Religion, to prophane the Sabbath, to forbid all Lectures and after-noone Sermons, to ſuſpend, ſilence, deprive, baniſh, impriſon, and ruine all good Preachers,
+<pb n="9" facs="tcp:156984:6"/>faithfull Paſtours, honeſt Miniſters, and faithfull labou<g ref="char:EOLhyphen"/>rers in Gods harveſt, that ſo there might be none left that could teach the Word ſincerely, truely, powerfully, none that durſt profeſſe and practiſe Religion honeſtly, uprightly, boldly, thereby to make way for Popery, the onely thing in the world, which he knew very well <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> deſired and aymed at, and at which he ſaw him drive with all his force; but preſently this ungodly wretch was ſo far from mending his manners ſince he left <hi>Here<g ref="char:EOLhyphen"/>ford,</hi> that rather growing worſe, by ſeeing how <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> had ſtuck to him, and rewarded his former pro<g ref="char:EOLhyphen"/>jects, he falls to worke luſtily, without either feare or wit, and proſecutes his purpoſe, ſo keenely, ſo eagerly, as if he were ſtarke madde, and not a Miniſter in the whole Countrey, though never ſo conformable a man, if he be but any reaſonable Preacher, but that he will have him downe, and doth ſo beſtirre himſelfe, that at one Viſitation he ſilenced, ſuſpended, deprived, impriſo<g ref="char:EOLhyphen"/>ned, or drave out of the Countrey, no leſſe than filtie or threeſcore of the beſt Miniſters in the Countrey, all at one clap, and turned many of them, their wives and chil<g ref="char:EOLhyphen"/>dren, out of all their living and maintenance, for any thing he either knew or cared a begging.</p>
+            </div>
+            <div n="11" type="section">
+               <head>
+                  <hi>11.</hi> His ſilencing of Maſter <hi>Ward</hi> of Ipſwich.</head>
+               <p>THis notorious wicked wretch this <hi>Matthew</hi> miſchiefe was in theſe his wicked acts and lewd enterpriſes, ſo far from bearing with age, reverencing grace, regarding learning and true abilities for the Miniſtery, reſpecting paines, or commiſerating the wants of families and chil<g ref="char:EOLhyphen"/>dren, that he ſtill without any of theſe reſpects aymed principally to doe the moſt hurt to the beſt men, his care was chiefly to ſuppreſſe good men, to oppreſſe religious men, to repreſſe all pietie and grace, and to impreſſe his ſtampe of Arminianiſme and Popery in all places where he had to doe. Among many other honeſt, good, and gracious men, who felt the ſting of this venomous Scor<g ref="char:EOLhyphen"/>pions
+<pb n="10" facs="tcp:156984:7"/>taile, that ancient, famous, good, and painfull man, Maſter <hi>Ward</hi> of <hi>Ipſwich,</hi> was one who becauſe he was an able, eminent, and noted man, therefore ſo much the more at him did this venomous Viper ſwell, and tooke ſuch ſpeech courſe to bring him downe, that he never re<g ref="char:EOLhyphen"/>ſted till he had it effected.</p>
+            </div>
+            <div n="12" type="section">
+               <head>
+                  <hi>12.</hi> His putting in wicked and corrupt Arminian Miniſters.</head>
+               <p>AND as this infamous wretch, and lewd Prelate, was moſt vehemently circumſpect to watch all opportu<g ref="char:EOLhyphen"/>nities to doe all the harme he could in the Church; to ſpie all advantages againſt all good men; to be notoriouſly ſubtill in finding faults; mightlly aggravating the ſmal<g ref="char:EOLhyphen"/>leſt, where he found any; wonderfully cunning to make faults where none were, deſperately wicked, to out-face the innocent, to ſuſpend honeſt Miniſters for ſcarce any cauſe, to ſilence them without a cauſe, not ſuffering them to preach after-noones without his Licenſe, which per<g ref="char:EOLhyphen"/>haps he would not grant, to deprive the beſt men ſome<g ref="char:EOLhyphen"/>times for very ſmall cauſes, ſometimes and moſt often for denying his innovations, impriſoning, degrading, ba<g ref="char:EOLhyphen"/>niſhing for what cauſe he pleaſed, or meerely for his pleaſure, the poore men being utterly remedileſſe; the Arch-antichriſt, and this his Journeyman Prelate being both ſo vehemently reſolute to ſweepe out all that they thought untractable to Popery, ſo to empty the Chur<g ref="char:EOLhyphen"/>ches, to voyd the Countrey of all good men, to make way for innovations and mutations, and as he was like<g ref="char:EOLhyphen"/>wiſe moſt eager, keene, and active, to innovate, change, alter, and deforme what he pleaſed in or concerning the Church, to erect Altars, to remove Tables, to make railes, to ſet up Tapers and Candleſticks, golden plate on Altars, embroidred and carved images, crucifixes, Saints pictures, and ſuch Babylonicall idolatries, ſo was he moſt fervently zealous, and moſt wonderfully carefull to intro<g ref="char:EOLhyphen"/>duce a Miniſtery that ſhould yeeld to all things, to bring in ſuch as he knew moſt certainly to be for all turnes, for
+<pb n="11" facs="tcp:156984:7"/>all purpoſes, for all matters whatſoever ſhould be put up<g ref="char:EOLhyphen"/>on them, ſuch as would be willing to omit preaching, to obſerve bowing, crowching, cringing; to ſet up Al<g ref="char:EOLhyphen"/>tars, to worſhip Altars, to ſpeake for Altars, to preach for Altars, and to be ready to alter both the Church and themſelves at his will and pleaſure, and frame themſelves for all ſizes, for otherwiſe though he had been never ſo wary, and circumſpect to root out all good Preachers, never ſo active and diligent to bring in innovations and alterations, all had been in vaine, all to no purpoſe with<g ref="char:EOLhyphen"/>out this, without placing and bringing in ſuch as were for his purpoſe, and therefore this he was moſt carefull of, this he thought would make ſure worke for all the reſt, ſo that hereby we may be certaine what to thinke of them that he thus brought into Churches.</p>
+            </div>
+            <div n="13" type="section">
+               <head>
+                  <hi>13.</hi> His worſhipping the Sacrament of his Altar.</head>
+               <p>AND thus this <hi>Matthew</hi> miſchiefe, or wicked <hi>Wren,</hi> having thus ungraciouſly effected the moſt of his damnable plots, facinorous acts and idolatrous ſervices, practiſing ſo much ſuperſtition in his owne perſon, and compelled others to the ſame, having rooted out like a wild Bore, many hundreds of better men than himſelfe, having waſted the Church, and made havock of the ſer<g ref="char:EOLhyphen"/>vants of God, and having ſet up ſo much idolatry, and compelled ſo many thouſands to the ſame, to the eter<g ref="char:EOLhyphen"/>nall hazard of their ſoules, partly by ſore conſtraining them to bow downe to his altars and images, and partly by ſleight and ſatanicall cunning, deluding them in cau<g ref="char:EOLhyphen"/>ſing all the pewes and ſeats to be ſo contrived, that the people muſt of neceſſitie kneele downe and bow towards the Eaſt, where he had placed his Altar Altar-wiſe, and having exerciſed his whole power, might, and authori<g ref="char:EOLhyphen"/>tie, for the ſuppreſſing of powerfull preaching, prohibi<g ref="char:EOLhyphen"/>ting all Sundayes after-noone-Sermons, weeke-day-Ser<g ref="char:EOLhyphen"/>mons, and all catechiſing, except the common Cate<g ref="char:EOLhyphen"/>chiſme in the Service-Booke, and all expoſition of that
+<pb n="12" facs="tcp:156984:8"/>Catechiſme, but onely the bare Queſtion and Anſwer, leaſt as he and his Officers ſaid, the expounding of the Catechiſme and Service-Booke, ſhould be as ill as Prea<g ref="char:EOLhyphen"/>ching; and commanding all Bells to be rung alike, that thereby people ſhould not know where any Sermons were, and where onely prayers were; and having thus ſet himſelfe wholy againſt Preaching, and not that one<g ref="char:EOLhyphen"/>ly, but likewiſe againſt prayer, not ſuffering any prayer before Sermons, but onely that in the thirty-ninth Ca<g ref="char:EOLhyphen"/>non, a notable piece of Canonicall non-ſence, nor ſuffe<g ref="char:EOLhyphen"/>ring any prayer at all after Sermons but onely <hi>Gloria pa<g ref="char:EOLhyphen"/>tri, &amp;c.</hi> He grew ſtill more and more rooted in ſin and not onely bowed to the Altar, but alſo bowing to the Sa<g ref="char:EOLhyphen"/>crament, and elevating it above his head, that the people, being behind his back, with his face towards the Eaſt, might ſee the ſame above his head, as the Prieſt uſeth to doe in Maſſe, which the Papiſts call the elevation of the Hoſt; at which elevation they uſe to fall downe and wor<g ref="char:EOLhyphen"/>ſhip it, ſo that Sathan having fully poſſeſt his heart, in ſtead of growing better, he waxed continually worſe and worſe, ſo that it is marvellous to conſider, that one impe to the devill, though he were poſſeſſed with a legion of devills, ſhould doe him ſo great ſervice in ſo ſhort a time.</p>
+            </div>
+            <div n="14" type="section">
+               <head>
+                  <hi>14.</hi> His tranſlation to Ely.</head>
+               <p>AND now, laſtly, having committed ſo many outra<g ref="char:EOLhyphen"/>ges, and villanies, and filled ſo many Countreys with ſo much ſuperſtition, idolatry, and Popery, and having ſilenced, excommunicated, deprived, or baniſhed ſo ma<g ref="char:EOLhyphen"/>ny honeſt Miniſters, beſides all others, at leaſt fiftie god<g ref="char:EOLhyphen"/>ly, learned and painfull Miniſters, in two yeares ſpace, with many more other times; and having ſo playd the arch perſecuter, that <hi>England</hi> never had nor heard of the like; far worſe by many degrees, than ever bloudy <hi>Bon<g ref="char:EOLhyphen"/>ner,</hi> or graceleſſe <hi>Gardiner</hi> were, their Religion, times, and lawes conſidered, and compared with this wicked
+<pb n="13" facs="tcp:156984:8"/>
+                  <hi>Wrens;</hi> he grew ſo hatefully odiouſly abominable againe to the very vulgar and common people, that for feare leaſt <hi>Ipſwich</hi> Sea-men ſhould hurt his ſatanicall corps, he ſmelt no Muſtard, and for the ſafetie of his perſon, was glad ſome certaine time to make buttons in private, ſtanding in great need of his old arch-friend and Maſter-Prelate once againe to ſtand his Journeyman-Biſhop in ſome ſtead by a friendly and timely tranſlation, leaſt by ſome violent miſchance or other, <hi>Gregory</hi> ſhould be wronged of his due expectations, which his ſure friend and Maſter the arch-prelate, not unmindfull of his ſtate, nor forgetfull of his ſervices (whom he intends for his owne ſucceſſour at his advancement to the papall chaire, if <hi>Gregory</hi> croſſe not them both in the very nick) he be<g ref="char:EOLhyphen"/>friends him with a deſired removall to the unwelcom<g ref="char:EOLhyphen"/>ming chaire of <hi>Ely,</hi> where his goodneſſe not much en<g ref="char:EOLhyphen"/>creaſing he ſtayes, expecting onely one other tranſlation by the favourable equitie of our Worthies, now aſſem<g ref="char:EOLhyphen"/>bled for ſuch purpoſes, from his chaire of Prelaticall reſidence, to be ſuſpended from all earthly af<g ref="char:EOLhyphen"/>faires, at the triangle poſts neere the Church of S<hi rend="sup">t</hi>. <hi>Egidius in campis,</hi> to which Juſtice I leave him.</p>
+            </div>
+            <trailer>FINIS. <hi>MYEDIR.</hi>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
